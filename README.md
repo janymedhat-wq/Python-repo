@@ -1,2 +1,2 @@
-# Python-repo
-covering my python journey and some project i made along the way 
+This repo covers my Python journey and the small projects I’ve made along the way.
+I’m learning how to turn simple ideas into real programs and slowly leveling up my coding skills one line at a time.
